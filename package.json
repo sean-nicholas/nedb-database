@@ -1,7 +1,7 @@
 {
   "name": "nedb-database",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple typescript & class support for NeDB",
   "main": "dist/index.js",
   "dependencies": {
     "nedb": "^1.8.0"
